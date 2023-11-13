@@ -1,6 +1,6 @@
 Comentários_do_livro_Sof.mdtware_Engineering_at_Google
 
-_________________________________Aula 11/08/2023________________________________
+Aula 11/08/2023
 1) Comentar 2 trechos do livro no Teams:
 Resposta:
 Trecho_Original_1: 
@@ -19,8 +19,7 @@ Em um projeto de engenharia de software, a passagem de tempo e a eventual necess
 Já em uma organização de engenharia de software, preocupa-se mais com a escala e a eficiência (para os softwares produzidos e a sua organização). Dessa forma, como um engenheiro de software, se faz necessário tomar decisões mais difíceis e com resultados de maiores riscos, que em sua maioria se baseia em estimativas de tempo e crescimento incertas (imprecisas).
 
 
-__________________________________________Aula 14/08/2023_____________________________________________
-
+Aula 14/08/2023
 Trecho_Original_2:
 "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
 
