@@ -30,10 +30,11 @@ Para o decorrer da API, a equipe julgou necessário a elaboração de protótipo
 Para esse projeto, seguimos a divisão de front-end / back-end. Minhas atribuições foram realizadas junto ao desenvolvimento de front-end, que apartir da idealização dos protótipos, as telas foram divididas entre os integrantes para realizar a integração junto com o back-end elaborado. 
 Antes do início das tasks, cada integrante planejava a quantidade de tempo (em horas) a ser gasto para a realização da tarefa. Ao final, cada um deveria lançar o total de horas efetivamente utilizadas para finalizar determinada atribuição.
 Dessa forma, seguem os desenvolvimentos das telas que elaborei por sprint, estruturadas da seguinte forma:
-	Sprint 1: Criação da tela home
+
+	- Sprint 1: Criação da tela home
 	A primeira tela desenvolvida nesta API, tinha como propósito a exibição dos arquivos que foram “importados” no sistema, status, organização e a exposição dessas informações eram restritas a cada usuário, ou seja, só poderiam ver essas informações, o usuário atribuído para ter essa visão, de acordo com o seu nível de acesso e sua organização. 
 
- ![image](https://github.com/user-attachments/assets/28b978b3-03fd-4d1f-a82d-d73652705949)
+		 ![image](https://github.com/user-attachments/assets/28b978b3-03fd-4d1f-a82d-d73652705949)
 
 	Sprint 2:
 
