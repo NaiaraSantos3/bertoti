@@ -1,4 +1,4 @@
-package Composite.src;
+package Composite.composite;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Composite.src;
+package Composite.composite;
 
 public class Printer implements PrinterComponent {
     @Override
