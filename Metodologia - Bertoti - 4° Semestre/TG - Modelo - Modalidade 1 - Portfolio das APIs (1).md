@@ -31,13 +31,19 @@ Para esse projeto, seguimos a divisão de front-end / back-end. Minhas atribuiç
 Antes do início das tasks, cada integrante planejava a quantidade de tempo (em horas) a ser gasto para a realização da tarefa. Ao final, cada um deveria lançar o total de horas efetivamente utilizadas para finalizar determinada atribuição.
 Dessa forma, seguem os desenvolvimentos das telas que elaborei por sprint, estruturadas da seguinte forma:
 
-	- Sprint 1: Criação da tela home
-	A primeira tela desenvolvida nesta API, tinha como propósito a exibição dos arquivos que foram “importados” no sistema, status, organização e a exposição dessas informações eram restritas a cada usuário, ou seja, só poderiam ver essas informações, o usuário atribuído para ter essa visão, de acordo com o seu nível de acesso e sua organização. 
+  	Sprint 1: Criação da tela home
+   
+	A primeira tela desenvolvida nesta API, tinha como propósito a exibição dos arquivos que foram “importados” no sistema, status, organização e a exposição dessas informações eram restritas a cada usuário, ou seja, só poderiam ver essas informações, o usuário atribuído para ter essa visão, de acordo com o seu nível de acesso e sua organização.
+![image](https://github.com/user-attachments/assets/28b978b3-03fd-4d1f-a82d-d73652705949)
 
-		 ![image](https://github.com/user-attachments/assets/28b978b3-03fd-4d1f-a82d-d73652705949)
+ 	Sprint 2: Criação da tela de login
+   
+	A tela de login, foi desenvolvida a fim de limitar os acessos e garantir maior segurança a aplicação. Além da parte visual (front-end), foi elaborada a conexão entre front-end e back-end, garantindo o funcionamento real e adequado para acessar todas as funcionalidades desenvolvidas.
 
-	Sprint 2:
+![image](https://github.com/user-attachments/assets/cfa59c82-18ef-48fa-b4d1-89e97356fc76)
 
+Sprint 3:
+ 
 
 
 
