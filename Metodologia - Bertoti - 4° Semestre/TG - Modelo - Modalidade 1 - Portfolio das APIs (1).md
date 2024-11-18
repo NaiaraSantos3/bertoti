@@ -17,10 +17,23 @@
 ### Em 2024-1
 " Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos."
 
-[GIT](https://github.com/iNineBD/DataFlow-3Sem2024)
+A _DOM ROCK_ é uma empresa voltada para apoioar clientes de diversos setores e que geram todo o tipo de dado (áudio, e-mail, imagem, etc.) a realizarem análises de dados através do uso da Inteligência Artificial. Com os dados tratatos e analisados, possibilitam aos seus clientes maior acertividade e segurança para as tomadas de decisões.
+
+Dessa forma, para o denvolvimento da API do 3° Semestre, aplicado na primeira etapa de 2024, tivemos o seguinte desafio:
+
+A instituição possui um sistema de processamento de dados em cascata chamado pipeline, que consiste em vários estágios que são coordenados automaticamente com base nas características das fontes de dados e nas necessidades dos clientes em termos de algoritmos de IA ou modelos matemáticos. 
+Na metodologia de implementação do sistema, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. No entanto, a configuração das fontes de dados é feita manualmente, sendo um ponto crítico que consome muito tempo dos técnicos e cria uma dependência excessiva de especialistas para realizar tal tarefa.
+Para superar esse obstáculo, foi proposto a criação de uma interface amigável para a configuração das fontes de dados em alguns estágios, proporcionando maior agilidade na implantação para os clientes da _Dom Rock_ e reduzindo a sua dependência de técnicos especializados.
+
+Seguem os links para conhecer a _DOM ROCK_ e a aplicação _DataFlow_:
+
+[_Dom Rock_](https://www.domrock.net/)
+
+[Aplicação _DataFlow_](https://github.com/iNineBD/DataFlow-3Sem2024)
 
 #### Tecnologias Utilizadas
 " Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto."
+
 
 #### Contribuições Pessoais
 Para a elaboração e desenvolvimento do projeto no 3° semestre as minhas contribuições foram nas focadas nas seguintes atribuições:
