@@ -9,4 +9,4 @@
 
     Segue o UML elaborado a partir da estrutura de projeto desenvolvida para o _Composite_:
   
-    ![Printer_UML](https://github.com/user-attachments/assets/c7fec70e-c44b-43c2-bdd0-6036461050b5)
+    ![Printer_UML](https://github.com/user-attachments/assets/c5481426-71ca-4b20-b52e-0e2f78a43ffd)
