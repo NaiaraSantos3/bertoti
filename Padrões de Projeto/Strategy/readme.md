@@ -9,7 +9,8 @@
 
     Segue o UML elaborado a partir da estrutura de projeto desenvolvida para o _Strategy_:
 
-   ![PaymentStrategy_UML](https://github.com/user-attachments/assets/70431505-5c69-4be0-ba1b-513531ef7ace)
+   ![PaymentStrategy_UML](https://github.com/user-attachments/assets/505cb550-249c-45a8-8c07-3bfda0a2f23e)
+
 
 
 
