@@ -9,4 +9,5 @@
 
     Segue o UML elaborado a partir da estrutura de projeto desenvolvida para o _Observer_:
 
-  ![Observer_Whatsapp](https://github.com/user-attachments/assets/ac941cd5-b64e-43db-b46e-4b4126cff43d)
+  ![Observer_Whatsapp](https://github.com/user-attachments/assets/789d9624-dd9e-4f57-b2a5-8be87dc6f913)
+
